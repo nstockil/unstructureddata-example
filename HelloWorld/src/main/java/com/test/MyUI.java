@@ -34,7 +34,7 @@ public class MyUI extends UI {
     ArrayList<StudentEntity> students = new ArrayList<StudentEntity>();
     
     // private String storageConnectionString = "UseDevelopmentStorage=true";
-    private String storageConnectionString = "DefaultEndpointsProtocol=https;AccountName=nstockil92cce6f8;AccountKey=P+CCxzIeMN2ILsOU5VB+xtZqX47OTd8gFWPv06vipBE18+0EJAH1UWcAeUywRR5Lg2MK6+ueRXAyYzeWgYKrKg==";
+    private String storageConnectionString = "DefaultEndpointsProtocol=https;AccountName=[ACCOUNTNAME];AccountKey=[ACCOUNTKEY]";
     private String tableName = "students";
 
     @Override
