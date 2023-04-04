@@ -1,3 +1,8 @@
+# Introduction
+These materials written for a workshop on unstructured data that was presented to college level group as part of their coursework in 2018.
+
+The materials have been left as is and are not actively maintained.
+
 # NoSQL
 
 NoSQL is a data solution that does not have a formal data structure defined.
